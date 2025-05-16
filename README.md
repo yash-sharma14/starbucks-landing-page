@@ -1,1 +1,3 @@
 # starbucks-landing-page
+
+This project is a Starbucks-themed landing page featuring a responsive design and a secure login system built using HTML, CSS, PHP, and MySQL. The landing page showcases Starbucks branding with a clean layout, navigation bar, and a promotional hero section. Users can log in through a styled login form, which submits credentials to a PHP script connected to a MySQL database. The backend securely authenticates users using hashed passwords and prepared statements to prevent SQL injection. On successful login, users are redirected to a dashboard, with sessions used to maintain login state. This project demonstrates full-stack development with frontend design and backend authentication integration.
